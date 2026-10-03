@@ -1,1 +1,33 @@
-# LonelyMod
+# LONELYMODV2 BETA
+
+This is a custom Minecraft mod I created, supporting versions from 1.20 up to 1.21.11. I uploaded it to this repository so that both I and others could use it for free; it was never intended to be malicious or a trap. You can use it safely, though there are issues with a few versions:
+
+Versions 1.21–1.21.1: Clicking the "Lonely UI" button in the main menu causes the vanilla background dimming effect to appear, but the mod works perfectly fine during actual gameplay.
+
+(Not a critical error) Versions 1.20–1.20.6: It feels like there might be optimization issues, though there might not actually be any—it could just be due to the version change. If you have a decent PC or phone, you won't experience any problems; the issue isn't severe, and I don't expect any crashes (unless I've overlooked something).
+
+Versions 1.21.6–1.21.8: In these versions, the minimap shows only empty space; the map itself doesn't appear. This error definitely exists in 1.21.6, though I'm not certain about 1.21.8.
+
+One more thing: the crosshair settings. They feel more like configuring a competitive shooter reticle than a standard Minecraft crosshair. I hope to improve this soon, though I wouldn't say it's terrible as it stands. Mod Features:
+
+Crosshair (Works fine, but will be improved)
+Zoom
+MiniMap (Works very well, except on a few versions; fixes for those are coming soon)
+Fullbright
+ArmorStatus
+FPS Counter
+Coordinates
+Freelook
+Days Counter (Not fully tested yet :/ I'm not even sure if it works properly XD)
+Keystrokes
+Effects
+Clock
+
+And... HUD Designer Settings
+
+This mod works with the Fabric API.
+
+One last thing: this mod was created for a specific Minecraft launcher (Lonely Launcher). If you wish, you can download and use that launcher as well; if you select Fabric for a version between 1.20 and 1.21.11 for your modpack, you can download the "LonelyClient Optimization Pack" directly from the mod selection screen. Downloading this adds optimization features and installs LonelyModV2.
+
+Mod Creator: Mr_Lonely / lonelywolf4634 (Discord)
+Feel free to message me on Discord with feedback about the mod. Thank you very much for using my mod; I plan to improve it further very soon.
