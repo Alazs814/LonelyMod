@@ -1,4 +1,4 @@
-# LONELYMODV2 BETA
+# LONELYMODV2 BETA I will add it to the repo as soon as possible.
 
 This is a custom Minecraft mod I created, supporting versions from 1.20 up to 1.21.11. I uploaded it to this repository so that both I and others could use it for free; it was never intended to be malicious or a trap. You can use it safely, though there are issues with a few versions:
 
