@@ -2,7 +2,7 @@
 
 This is a custom Minecraft mod I created, supporting versions from 1.20 up to 1.21.11. I uploaded it to this repository so that both I and others could use it for free; it was never intended to be malicious or a trap. You can use it safely, though there are issues with a few versions:
 
-Versions 1.21–1.21.1: Clicking the "Lonely UI" button in the main menu causes the vanilla background dimming effect to appear, but the mod works perfectly fine during actual gameplay.
+Versions 1.21–1.21.1: Clicking the "Lonely Settings" button in the main menu causes the vanilla background dimming effect to appear, but the mod works perfectly fine during actual gameplay.
 
 (Not a critical error) Versions 1.20–1.20.6: It feels like there might be optimization issues, though there might not actually be any—it could just be due to the version change. If you have a decent PC or phone, you won't experience any problems; the issue isn't severe, and I don't expect any crashes (unless I've overlooked something).
 
