@@ -1,5 +1,6 @@
-# LONELYMODV2 BETA I will add it to the repo as soon as possible.
+# LonelyModV2 & LonelyLauncher
 
+LonelyModV2 Beta
 This is a custom Minecraft mod I created, supporting versions from 1.20 up to 1.21.11. I uploaded it to this repository so that both I and others could use it for free; it was never intended to be malicious or a trap. You can use it safely, though there are issues with a few versions:
 
 Versions 1.21–1.21.1: Clicking the "Lonely Settings" button in the main menu causes the vanilla background dimming effect to appear, but the mod works perfectly fine during actual gameplay.
